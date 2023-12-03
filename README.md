@@ -21,7 +21,7 @@ Lista stacji radiowych przykładowa, dla każdego coś dobrego, można dostosowa
 
 ### EN
 
-**PyRadyjko v0.1** - script created in 2022
+**PyRadyjko v0.1** - script created in 2020
 
 Author: Fibogacci
 
