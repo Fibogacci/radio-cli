@@ -57,7 +57,7 @@ Kompilacja:
 
 Uruchamianie:
 
-```% ./radioctacja```
+```$ ./radioctacja```
 
 ### EN
 
@@ -75,6 +75,6 @@ Compilation:
 
 To run:
 
-```% ./radioctacja```
+```$ ./radioctacja```
 
 ![](https://github.com/Fibogacci/radio-cli/blob/main/radioCtacja.png)
