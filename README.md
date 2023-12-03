@@ -35,4 +35,4 @@ Polish radio streams can be found on: ***http://www.emsoft.ct8.pl/strumienie.php
 
 The list of radio stations is exemplary, something good for everyone, can be customized to taste.
 
-https://github.com/Fibogacci/radio-cli/blob/main/pyradyjko-20231203v2.png
+![](https://github.com/Fibogacci/radio-cli/blob/main/pyradyjko-20231203v2.png)
