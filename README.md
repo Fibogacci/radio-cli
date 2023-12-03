@@ -47,7 +47,7 @@ The list of radio stations is exemplary, something good for everyone, can be cus
 
 Autor: Fibogacci
 
-Wymaga zainstalowanego mpv w systemie.
+Wymaga zainstalowanego **mpv** w systemie.
 
 Po kompilacji działa na **Linux, Termux (Android)**.
 
@@ -65,7 +65,7 @@ Uruchamianie:
 
 Author: Fibogacci
 
-Also requires installed mpv.
+Also requires installed **mpv**.
 
 After compilation, it works on **Linux, Termux (Android)**.
 
