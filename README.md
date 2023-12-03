@@ -77,3 +77,4 @@ To run:
 
 ```% ./radioctacja```
 
+![](https://github.com/Fibogacci/radio-cli/blob/main/radioCtacja.png)
